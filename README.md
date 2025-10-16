@@ -56,7 +56,7 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-<p align="center">
+<p align="right">
   <img src="./miku-vocaloid.gif" width="180" alt="Miku animada" />
 </p>
 
