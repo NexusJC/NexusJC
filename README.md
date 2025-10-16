@@ -60,9 +60,5 @@ Gracias por leer.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-<p align="left"><img src="./among-us.gif" width="180" alt="amongos"
-align="center"><img src="./among-us.gif" width="180" alt="amongos1"
-                  align="center"><img src="./among-us.gif" width="180" alt="amongos1"
-                                    align="center"><img src="./among-us.gif" width="180" alt="amongos1"
- align="right"><img src="./among-us.gif" width="180" alt="amongos2" </p>
+<p align="left"><img src="./among-us.gif" width="180" alt="amongos" align="center"><img src="./among-us.gif" width="180" alt="amongos" align="center"><img src="./among-us.gif" width="180" alt="amongos" align="right"><img src="./among-us.gif" width="180" alt="amongos"</p>
 
