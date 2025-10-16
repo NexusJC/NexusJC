@@ -60,6 +60,7 @@ Gracias por leer.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-<p align="left"><img src="./halo-infinite-statue.gif" width="180" alt="jeilo verde"
- align="right"><img src="./miku-vocaloid.gif" width="180" alt="Miku animada" </p>
+<p align="left"><img src="./among-us.gif" width="180" alt="amongos"
+align="center"><img src="./among-us.gif" width="180" alt="amongos1"
+ align="right"><img src="./among-us.gif" width="180" alt="amongos2" </p>
 
