@@ -62,5 +62,7 @@ Gracias por leer.
 
 <p align="left"><img src="./among-us.gif" width="180" alt="amongos"
 align="center"><img src="./among-us.gif" width="180" alt="amongos1"
+                  align="center"><img src="./among-us.gif" width="180" alt="amongos1"
+                                    align="center"><img src="./among-us.gif" width="180" alt="amongos1"
  align="right"><img src="./among-us.gif" width="180" alt="amongos2" </p>
 
