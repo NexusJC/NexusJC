@@ -48,8 +48,6 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-   <div class="tenor-gif-embed" data-postid="11737562665801937964" data-share-method="host" data-aspect-ratio="1.0367" data-width="100%"><a href="https://tenor.com/view/miku-vocaloid-hatsune-miku-gif-11737562665801937964">Miku Vocaloid Sticker</a>from <a href="https://tenor.com/search/miku-stickers">Miku Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-   
 ###  Tecnologías
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
