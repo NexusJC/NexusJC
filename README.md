@@ -1,23 +1,25 @@
-# ¡Hola, soy Brandom 👋
+# ¡Hola, soy Brandom 
 
-Soy un apasionado de la tecnología y el desarrollo de software. Actualmente, estoy trabajando en varios proyectos relacionados con la creación de aplicaciones web, bases de datos y sistemas embebidos. ¡Me encanta aprender y compartir mis conocimientos!
+Me gusta mucho la electronica, la programación, en general, la informatica.
 
 ## 🧑‍💻 ¿Qué hago?
 
-- Desarrollo aplicaciones web full-stack usando tecnologías como **React**, **Node.js**, **Express**, **MySQL** y **Laravel**.
-- Trabajo en proyectos de **lógica digital** y **sistemas embebidos**, utilizando **circuitos TTL** y herramientas como **Proteus** y **Tinkercad**.
+- Desarrollo aplicaciones web full-stack usando tecnologías como **Node.js**, **Express** y **MySQL**.
+- Trabajo en proyectos de **lógica digital** y **desarrollo web**.
 - Aplico el modelo de **gestión de stakeholders** y otras metodologías en proyectos académicos e industriales.
 
 ## 📚 Proyectos destacados
 
-### 1. **[La Parrilla Azteca (PI-CRUD)](https://github.com/NexusJC/PI-CRUD)**
+### 1.-
+
+### 2. **[La Parrilla Azteca (PI-CRUD)](https://github.com/NexusJC/PI-CRUD)**
    Un sistema de gestión de turnos y pedidos para un restaurante con funcionalidades de CRUD, dashboards y múltiples vistas.
    
 ## 🛠️ Habilidades y tecnologías
 
-- **Frontend**: React, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript.
-- **Backend**: Node.js, Express, Laravel, MySQL, MongoDB.
-- **Herramientas**: Git, GitHub, Docker, Postman, MySQL Workbench.
+- **Frontend**: Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript.
+- **Backend**: Node.js, Express, MySQL.
+- **Herramientas**: Git, GitHub, MySQL Workbench.
 - **Otros**: Lógica digital, GitHub Actions, CI/CD.
 
 
@@ -27,4 +29,4 @@ Soy un apasionado de la tecnología y el desarrollo de software. Actualmente, es
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+Gracias por leer.
