@@ -56,6 +56,16 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NexusJC&show_icons=true&hide_title=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NexusJC" height="160" />
+</p>
+
 ---
 
 Gracias por leer.
