@@ -22,9 +22,9 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 - **Herramientas**: Git, GitHub, MySQL Workbench.
 - **Otros**: Lógica digital, GitHub Actions, CI/CD.
 
-  ### 🧠 Habilidades y Tecnologías
+  ### Habilidades y Tecnologías
 
-#### 💻 Frontend
+#### Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -33,14 +33,14 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
 </p>
 
-#### ⚙️ Backend
+#### Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-#### 🧰 Herramientas
+#### Herramientas
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
@@ -56,16 +56,6 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NexusJC&show_icons=true&hide_title=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NexusJC" height="160" />
-</p>
-
----
 
 Gracias por leer.
