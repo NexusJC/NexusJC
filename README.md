@@ -1,6 +1,4 @@
-# Hola, soy Brandom                                                                                                                                                             ![Miku GIF](./miku-vocaloid.gif)
-
-
+# Hola, soy Brandom                                                                                                                                                   
 Me gusta mucho la electronica, la programación, en general, la informatica.
 
 ##  ¿Qué hago?
@@ -58,5 +56,8 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<p align="center">
+  <img src="./miku-vocaloid.gif" width="300" alt="Miku animada" />
+</p>
 
 Gracias por leer.
