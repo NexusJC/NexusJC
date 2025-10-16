@@ -1,4 +1,5 @@
-# Hola, soy Brandom 
+# Hola, soy Brandom                                                                                                                                                             ![Miku GIF](./miku-vocaloid.gif)
+
 
 Me gusta mucho la electronica, la programación, en general, la informatica.
 
