@@ -21,12 +21,6 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 - **Backend**: Node.js, Express, MySQL.
 - **Herramientas**: Git, GitHub, MySQL Workbench.
 - **Otros**: Lógica digital, GitHub Actions, CI/CD.
-
-
-##  Algunas estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ---
 
 Gracias por leer.
