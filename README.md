@@ -57,7 +57,7 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 <p align="center">
-  <img src="./miku-vocaloid.gif" width="300" alt="Miku animada" />
+  <img src="./miku-vocaloid.gif" width="180" alt="Miku animada" />
 </p>
 
 Gracias por leer.
