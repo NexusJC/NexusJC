@@ -57,8 +57,6 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-<p align="left">
-  <img src="./halo-infinite-statue.gif" width="180" alt="jeilo verde"
-</p> <p align="right"><img src="./miku-vocaloid.gif" width="180" alt="Miku animada" /></p>
+<p align="left"><img src="./halo-infinite-statue.gif" width="180" alt="jeilo verde"</p> <p align="right"><img src="./miku-vocaloid.gif" width="180" alt="Miku animada" /></p>
 
 Gracias por leer.
