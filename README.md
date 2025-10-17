@@ -3,7 +3,7 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 
 ##  ¿Qué hago?
 
-- Desarrollo aplicaciones web full-stack usando tecnologías como **Node.js**, **Express** y **MySQL**.
+- Desarrollo aplicaciones web full-stack usando tecnologías como **Node.js** y **MySQL**.
 - Trabajo en proyectos de **lógica digital** y **desarrollo web**.
 - Aplico el modelo de **gestión de stakeholders** y otras metodologías en proyectos académicos e industriales.
 
