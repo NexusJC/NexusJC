@@ -59,6 +59,3 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 Gracias por leer.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
-<p align="left"><img src="./among-us.gif" width="180" alt="amongos"      align="right"><img src="./among-us.gif" width="180" alt="amongos"</p>
-
