@@ -56,7 +56,7 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 ![Java](https://img.shields.io/badge/Java-F8B800?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ---
 Gracias por leer.
