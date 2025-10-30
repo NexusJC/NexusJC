@@ -18,7 +18,7 @@ Me gusta mucho la electronica, la programación, en general, la informatica.
 
 - **Frontend**: Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript.
 - **Backend**: Node.js, Express, MySQL, kotlin.
-- **Herramientas**: Git, GitHub, MySQL Workbench, visual studio code, android studio, Unity hub, Intelij IDEA.
+- **Herramientas**: Git, GitHub, Javascript, MySQL Workbench, visual studio code, android studio, Unity hub, Intelij IDEA.
 - **Otros**: Lógica digital, GitHub Actions, CI/CD.
 
   ### Habilidades y Tecnologías
